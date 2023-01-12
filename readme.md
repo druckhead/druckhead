@@ -44,7 +44,7 @@
 
 ### Repositories to check out
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=druckhead&repo=EduLabs-FullStack-Course)](https://github.com/druckhead/EduLabs-FullStack_Course)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=druckhead&repo=EduLabs-FullStack-Course)](https://github.com/druckhead/EduLabs-FullStack-Course)
 
 #
 
