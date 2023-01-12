@@ -76,6 +76,6 @@
 
 #
 
-<details>
+<!-- <details>
   <summary><h3>Coding Journey</h3></summary>
-  <p>hello</p>
+  <p>hello</p> -->
