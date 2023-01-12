@@ -60,15 +60,15 @@
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=druckhead&theme=buefy&border_radius=4.5) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=40 align=4center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=druckhead">
+  <img align="center"" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=druckhead">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=40 align=4center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=druckhead&count_private=true&show_icons=true&theme=cobalt#gh-dark-mode-only">
+  <img align="center"" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=druckhead&count_private=true&show_icons=true&theme=cobalt#gh-dark-mode-only">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
- <img height=40 align=4center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=druckhead&count_private=True&show_icons=true&theme=buefy#gh-light-mode-only">
+ <img align="center"" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=druckhead&count_private=True&show_icons=true&theme=buefy#gh-light-mode-only">
 </a>
-<img height=40 align=4center" src="https://streak-stats.demolab.com?user=druckhead&theme=buefy&border_radius=4.5">
+<img align="center"" src="https://streak-stats.demolab.com?user=druckhead&theme=buefy&border_radius=4.5">
 </a>
 
 #
