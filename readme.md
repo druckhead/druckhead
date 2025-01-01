@@ -1,78 +1,54 @@
-# Daniel Raz
+# Hi, I’m Daniel! 👋
 
-**`Coding Enthusiast and Full-Stack Student`**
+![Hero Image](https://i.imgur.com/96KwhHC_d.webp?maxwidth=760&fidelity=grand)
 
-#
+I’m a passionate Full-Stack Developer. I specialize in building dynamic and responsive web applications using a variety of modern technologies.
 
-### Socials
-<a href="https://www.twitter.com" alt="Twitter Profile">
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
-</a>     
-<a href="https://www.linkedin.com/in/daniel-raz-42b705250/" alt="LinkedIn Profile">
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />          
-</a>
+## 🛠️ Languages
 
-#
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Languages and Tools
-<p align="left">
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <!-- <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> -->
-  <!-- <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> -->
-  <!-- <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> -->
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />          
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />    
-  <!-- <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> -->
-</p>
+## 🧰 Frameworks and Libraries
 
-<p align="left">
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" />
-<img height=40 with=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-</p>
-          
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-<p align="left">
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" />
-</p>
+## 🗄️ Databases
 
-#
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Repositories to check out
+## 💻 Tools
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=druckhead&repo=EduLabs-FullStack-Course)](https://github.com/druckhead/EduLabs-FullStack-Course)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![DBeaver](https://img.shields.io/badge/-DBeaver-000000?style=flat-square&logo=dbeaver&logoColor=white)
 
-#
+## 📈 GitHub Stats & Top Languages
 
-### GitHub Stats
+<!-- ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=druckhead&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=druckhead&layout=donut&theme=radical) -->
 
+<!-- <a href='https://github.com/druckhead'> -->
+<img height=200 src='https://github-readme-stats.vercel.app/api?username=druckhead&show_icons=true&theme=radical'/>
+<!-- </a> -->
+<!-- <a href='https://github.com/druckhead'> -->
+<img height=200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=druckhead&layout=donut&theme=radical'/>
+<!-- </a> -->
 
-<!-- [![Daniels's GitHub stats-Dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=druckhead&count_private=true&show_icons=true&theme=cobalt#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
+<!-- ## 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=druckhead&layout=compact&theme=radical) -->
 
-<!-- [![Daniels's GitHub stats-Light](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=druckhead&count_private=True&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
+<!-- ## 🌟 Featured Projects
 
-<!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=druckhead&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+Here are some of my notable projects:
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=druckhead&theme=buefy&border_radius=4.5) -->
+- **[SS_EX1](https://github.com/druckhead/SS_EX1)**
+  A project written in C. ![Stars](https://img.shields.io/github/stars/druckhead/SS_EX1?style=social) ![Forks](https://img.shields.io/github/forks/druckhead/SS_EX1?style=social)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=druckhead">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img align="center"" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=druckhead&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt#gh-dark-mode-only">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
- <img align="center"" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=druckhead&count_private=True&show_icons=true&include_all_commits=true&theme=buefy#gh-light-mode-only">
-</a>
-<img align="center"" src="https://streak-stats.demolab.com?user=druckhead&theme=buefy&border_radius=4.5">
-</a>
+- **[EduLabs-FullStack-Course](https://github.com/druckhead/EduLabs-FullStack-Course)**
+  A repository for EduLabs FullStack course homework and assignments. ![Stars](https://img.shields.io/github/stars/druckhead/EduLabs-FullStack-Course?style=social) ![Forks](https://img.shields.io/github/forks/druckhead/EduLabs-FullStack-Course?style=social)
 
-#
+Feel free to explore these repositories to see my work in action! -->
 
-<!-- <details>
-  <summary><h3>Coding Journey</h3></summary>
-  <p>hello</p> -->
+<!-- ## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/druckhead/)  -->
+
+<!-- I'm always open to collaborating on exciting projects and discussing innovative ideas. Let's connect and make something amazing together! -->
